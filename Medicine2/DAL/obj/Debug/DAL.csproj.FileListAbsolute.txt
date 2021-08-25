@@ -1,0 +1,234 @@
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\Medicine\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Desktop\Medicine\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\BE.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\mine\Medicine\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\mine\Medicine\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\mine\Medicine\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\mine\Medicine\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\mine\Medicine\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\RestSharp.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\RestSharp.xml
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Core.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.xml
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Core.xml
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tahel\mine\Medicine\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\DAL.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\DAL.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\BE.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Auth.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Core.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\HtmlAgilityPack.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\RestSharp.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\BE.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Auth.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Auth.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Core.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Core.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\HtmlAgilityPack.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\HtmlAgilityPack.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\bin\Debug\RestSharp.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\obj\Debug\DAL.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\DAL\obj\Debug\DAL.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\DAL.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\DAL.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\BE.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Core.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\RestSharp.dll
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\BE.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.xml
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Core.xml
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atere\Desktop\Medicine2\DAL\bin\Debug\RestSharp.xml
+C:\Users\atere\Desktop\Medicine2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\atere\Desktop\Medicine2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\atere\Desktop\Medicine2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\atere\Desktop\Medicine2\DAL\obj\Debug\DAL.dll
+C:\Users\atere\Desktop\Medicine2\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Core.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\RestSharp.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Core.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\bin\Debug\RestSharp.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Medicine2\DAL\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\Medicine2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Medicine2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Medicine2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Medicine2\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\Medicine2\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\DAL.dll.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\EntityFramework.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Core.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\RestSharp.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\EntityFramework.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Core.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\bin\Debug\RestSharp.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\DAL\obj\Debug\DAL.pdb

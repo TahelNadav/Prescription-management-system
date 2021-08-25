@@ -1,0 +1,99 @@
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\DAL.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\BE.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\BE.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\BE.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\RestSharp.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.dll
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\BE.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\RestSharp.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.xml
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\RestSharp.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\DAL.dll.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Auth.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\RestSharp.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\bin\Debug\Google.Apis.Core.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

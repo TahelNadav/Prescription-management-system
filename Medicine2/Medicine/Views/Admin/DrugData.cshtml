@@ -1,0 +1,85 @@
+﻿@using Medicine.Models;
+@model Medicine.Models.DrugDataModel
+@{ Layout = null; }
+
+
+<!doctype html>
+<html>
+
+<head>
+    <title>Bar Chart</title>
+    <script src="~/Scripts/Chart.min.js"></script>
+    <script src="~/Scripts/utils.js"></script>
+    <style>
+        canvas {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+        }
+    </style>
+
+    <meta name="NetsparkQuiltingResult" total-length="3932" removed="0" rules-found="w2727,w3107,w7468,w5070,w3911" />
+</head>
+
+<body>
+    <div id="container" style="width: 75%;">
+        <canvas id="canvas"></canvas>
+
+
+
+
+    </div>
+
+
+
+
+    <script>
+        var MONTHS = ['ינואר', 'פבואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'];
+        var color = Chart.helpers.color;
+        var barChartData = {
+            labels: ['ינואר', 'פבואר', 'מרץ', 'אפריל', 'מאי', 'יוני', 'יולי', 'אוגוסט', 'ספטמבר', 'אוקטובר', 'נובמבר', 'דצמבר'],
+            datasets: [{
+                label: "@Model.DrugName",
+                backgroundColor: color(window.chartColors.blue).alpha(0.5).rgbString(),
+                borderColor: window.chartColors.blue,
+                borderWidth: 1,
+                data: [
+                    @Model.Values[0],  @Model.Values[1], @Model.Values[2], @Model.Values[3], @Model.Values[4], @Model.Values[5] ,@Model.Values[6] ,@Model.Values[7], @Model.Values[8], @Model.Values[9], @Model.Values[10] ,@Model.Values[11]
+                ]
+            }]
+
+        };
+
+        window.onload = function () {
+            var ctx = document.getElementById('canvas').getContext('2d');
+            window.myBar = new Chart(ctx, {
+                type: 'bar',
+                data: barChartData,
+                options: {
+                    responsive: true,
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'נתוני צריכת תרופה'
+                    }
+                }
+            });
+        };
+
+
+
+    </script>
+
+
+    <script src="D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\js\jquery-3.5.1.min.js"></script>
+
+
+
+
+
+
+</body>
+
+</html>

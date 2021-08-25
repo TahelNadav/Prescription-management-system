@@ -1,0 +1,919 @@
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\Medicine.dll.config
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\Medicine.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\Medicine.pdb
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\csc.exe
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\csc.exe.config
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\csc.rsp
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\csi.exe
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\csi.exe.config
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\csi.rsp
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Console.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\vbc.exe
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\vbc.rsp
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\BE.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\BL.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Helpers.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Mvc.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Razor.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Webpages.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Webpages.Razor.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\BE.pdb
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\BL.pdb
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Razor.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Webpages.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Webpages.Razor.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Helpers.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\System.Web.Mvc.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tahel\Desktop\Medicine\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Medicine\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Medicine\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\tahel\Desktop\Medicine\Medicine\obj\Debug\Medicine.dll
+C:\Users\tahel\Desktop\Medicine\Medicine\obj\Debug\Medicine.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\Medicine.dll.config
+C:\Users\tahel\mine\Medicine\Medicine\bin\Medicine.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\Medicine.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\csc.exe
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\csc.exe.config
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\csc.rsp
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\csi.exe
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\csi.exe.config
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\csi.rsp
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Console.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\vbc.exe
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\vbc.rsp
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\tahel\mine\Medicine\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tahel\mine\Medicine\Medicine\bin\BE.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\BL.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\BE.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\BL.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\System.Web.Razor.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\System.Web.Webpages.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\System.Web.Webpages.Razor.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\System.Web.Helpers.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\System.Web.Mvc.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tahel\mine\Medicine\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\tahel\mine\Medicine\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\tahel\mine\Medicine\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\tahel\mine\Medicine\Medicine\obj\Debug\Medicine.dll
+C:\Users\tahel\mine\Medicine\Medicine\obj\Debug\Medicine.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\DAL.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\RestSharp.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\DAL.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\RestSharp.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Core.dll
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\tahel\mine\Medicine\Medicine\bin\Google.Apis.Core.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Medicine.dll.config
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Medicine.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Medicine.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\csc.exe
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\csc.exe.config
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\csc.rsp
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\csi.exe
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\csi.exe.config
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\csi.rsp
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.AppContext.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Collections.Immutable.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Console.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.IO.Compression.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.IO.FileSystem.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Net.Http.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Net.Sockets.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.ValueTuple.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Xml.XPath.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\vbc.exe
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\vbc.exe.config
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\vbc.rsp
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\VBCSCompiler.exe
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\roslyn\VBCSCompiler.exe.config
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\BE.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\BL.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\DAL.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Drive.v3.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Auth.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\RestSharp.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Newtonsoft.Json.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Core.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\BE.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\BL.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\System.Web.Razor.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\System.Web.Webpages.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\System.Web.Webpages.Deployment.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\System.Web.Webpages.Razor.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\System.Web.Helpers.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\System.Web.Mvc.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\DAL.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Drive.v3.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Drive.v3.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Auth.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Auth.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\RestSharp.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Newtonsoft.Json.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Core.pdb
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\bin\Google.Apis.Core.xml
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\obj\Debug\Medicine.dll
+D:\המסמכים\Pictures\גיבוים\M\Medicine\Medicine\obj\Debug\Medicine.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\tahel\Music\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tahel\Music\Medicine2\Medicine\bin\BE.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\BL.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\DAL.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\tahel\Music\Medicine2\Medicine\bin\BE.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\BL.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\System.Web.Razor.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\System.Web.Webpages.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\System.Web.Webpages.Razor.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\System.Web.Helpers.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\System.Web.Mvc.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\tahel\Music\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\tahel\Music\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\tahel\Music\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Music\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\tahel\Music\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\tahel\Music\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\BE.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\BL.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\DAL.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\BE.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\BL.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\System.Web.Razor.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\System.Web.Webpages.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\System.Web.Webpages.Deployment.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\System.Web.Webpages.Razor.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\System.Web.Helpers.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\System.Web.Mvc.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\atere\Desktop\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\atere\Desktop\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\atere\Desktop\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\atere\Desktop\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\atere\Desktop\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\atere\Desktop\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\BE.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\BL.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\DAL.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\BE.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\BL.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\tahel\Desktop\הכי מעודכן\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\BE.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\BL.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\DAL.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\EntityFramework.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\BE.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\BL.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\DAL.dll.config
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\EntityFramework.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\פרויקט\Medicine2\Medicine\bin\EntityFramework.SqlServer.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\BE.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\BL.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\EntityFramework.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\EntityFramework.SqlServer.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\DAL.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\BE.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\BL.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\EntityFramework.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\EntityFramework.SqlServer.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\DAL.dll.config
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\atere\Desktop\לימודים\מיחשוב ענן\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\BE.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\BL.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\EntityFramework.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\EntityFramework.SqlServer.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\DAL.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\BE.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\BL.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\EntityFramework.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\EntityFramework.SqlServer.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\DAL.dll.config
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\tahel\Desktop\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Medicine2\Medicine\bin\BE.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\BL.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\EntityFramework.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\DAL.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\User\Desktop\Medicine2\Medicine\bin\BE.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\BL.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\EntityFramework.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\DAL.dll.config
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\User\Desktop\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\User\Desktop\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\User\Desktop\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\User\Desktop\Medicine2\Medicine\obj\Debug\Medicine.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Medicine.dll.config
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Medicine.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Medicine.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\csc.exe
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\csc.exe.config
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\csc.rsp
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\csi.exe
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\csi.exe.config
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\csi.rsp
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.AppContext.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Console.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.Compression.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Net.Http.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.ValueTuple.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\vbc.exe
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\vbc.exe.config
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\vbc.rsp
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\BE.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\BL.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\EntityFramework.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\EntityFramework.SqlServer.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\DAL.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Drive.v3.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Auth.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\RestSharp.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Newtonsoft.Json.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Core.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\BE.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\BL.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\EntityFramework.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\EntityFramework.SqlServer.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\DAL.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\DAL.dll.config
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Drive.v3.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Drive.v3.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Auth.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Auth.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\RestSharp.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Newtonsoft.Json.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Core.pdb
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\bin\Google.Apis.Core.xml
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.csproj.CopyComplete
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.dll
+C:\Users\tahel\Desktop\degree\projects\דטה בייס\Medicine2\Medicine\obj\Debug\Medicine.pdb
